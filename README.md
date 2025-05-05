@@ -62,10 +62,6 @@ Seja bem-vindo ao meu perfil do GitHub!
 
 ![uMorgan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=uMorgan&show_icons=true&theme=radical)
 
-### 🐍 Snake Contributions (efeito animado!)
-
-![snake gif](https://github.com/uMorgan/uMorgan/blob/output/github-contribution-grid-snake.svg)
-
 ## 📫 Como me encontrar
 
 - ✉️ morgantaria965@gmail.com
