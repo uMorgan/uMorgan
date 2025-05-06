@@ -47,7 +47,7 @@ Seja bem-vindo ao meu perfil do GitHub!
 
 ## 🏆 Projetos em Destaque
 
-- 🔥 **[Bot de Whitelist para Discord]([https://github.com/uMorgan](https://github.com/uMorgan/Bot-WL))** — sistema com botões e modals para whitelists
+- 🔥 **[Bot de Whitelist para Discord]([https://github.com/uMorgan/Bot-WL])** — sistema com botões e modals para whitelists
 - 🤖 **Projetos com Reinforcement Learning** — usando algoritmos DQN, PPO e A2C
 - 🎮 **Experimentos com Gymnasium** — MountainCar, LunarLander, CarRacing
 
