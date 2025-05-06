@@ -1,5 +1,5 @@
 <!-- Banner -->
-<img src="https://capsule-render.vercel.app/api?type=gradient&color=6a1b9a,ff6f00&height=200&section=header&text=Morgan%20👨‍💻&fontSize=40&fontColor=FFFFFF&animation=fadeIn" />
+<img src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/caminho/para/banner.png" />
 
 # 👋 Olá, eu sou Morgan!
 
