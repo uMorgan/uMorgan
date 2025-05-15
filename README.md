@@ -48,8 +48,8 @@ Seja bem-vindo ao meu perfil do GitHub!
 ## 🏆 Projetos em Destaque
 
 - 🔥 **[Bot de Whitelist para Discord](https://github.com/uMorgan/Bot-WL)** — sistema com botões e modals para whitelists
-- 🤖 **Projetos com Reinforcement Learning** — usando algoritmos DQN, PPO e A2C
-- 🎮 **Experimentos com Gymnasium** — MountainCar, LunarLander, CarRacing
+- 🤖 **[Projetos com Reinforcement Learning](https://github.com/uMorgan/ML-CD)** — usando algoritmos DQN, PPO e A2C no Gymnasium
+- 🏗️ **[Site de orçamentos com React](https://github.com/uMorgan/JM-locacoes)** — MountainCar, LunarLander, CarRacing podenndo ser visto [aqui](https://umorgan.github.io/JM-locacoes/)
 
 ## 📚 O que estou estudando agora
 
