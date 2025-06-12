@@ -72,6 +72,23 @@ Seja bem-vindo ao meu perfil do GitHub!
 - 🧩 **Estruturação de árvores de decisão e bancos de dados relacionais** com base em características musicais.
 - 🛠️ **Interface interativa** para perguntas dinâmicas e coleta de dados do usuário em tempo real.
 
+## 🎮 Jogo da Cobrinha no GitHub
+
+Na pasta `scripts/` você encontrará uma animação do jogo da cobrinha (Snake Game) que é criada através de commits no GitHub. Esta animação é visível no seu perfil do GitHub através do gráfico de contribuições.
+
+### Como funciona
+- Cada commit representa um frame da animação
+- A cobra (🟩) se move pelo tabuleiro
+- A comida (🍎) aparece em posições aleatórias
+- O jogo continua até a cobra colidir ou atingir o número máximo de movimentos
+
+### Como usar
+1. Clone este repositório
+2. Navegue até a pasta `scripts/`
+3. Execute `python snake_animation.py`
+
+Para mais detalhes sobre como configurar e personalizar o jogo, veja o arquivo `scripts/README.md`.
+
 ## 📈 Estatísticas
 
 ![uMorgan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=uMorgan&show_icons=true&theme=radical)
