@@ -47,8 +47,6 @@ Seja bem-vindo ao meu perfil do GitHub!
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-5A9BD5?style=for-the-badge&logo=python&logoColor=white)
 ![asyncio](https://img.shields.io/badge/asyncio-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![os](https://img.shields.io/badge/os%20(Python)-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![time](https://img.shields.io/badge/time%20(Python)-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### Ferramentas
 
