@@ -66,7 +66,7 @@ Seja bem-vindo ao meu perfil do GitHub!
 
 ## 🐍 Jogo da cobrinha com meus commits
 
-![snake gif](https://github.com/uMorgan/uMorgan/raw/output/github-contribution-grid-snake-dark.svg)
+![snake gif](https://raw.githubusercontent.com/uMorgan/uMorgan/output/github-contribution-grid-snake-dark.svg)
 
 
 ## 📚 O que estou estudando agora
