@@ -62,10 +62,6 @@ Seja bem-vindo ao meu perfil do GitHub!
 - 🤖 **[Projetos com Reinforcement Learning](https://github.com/uMorgan/ML-CD)** — usando algoritmos DQN, PPO e A2C no Gymnasium
 - 🏗️ **[Site de orçamentos com React](https://github.com/uMorgan/JM-locacoes)** — site podendo ser visto [aqui](https://umorgan.github.io/JM-locacoes/)
 
-## 🐍 Jogo da cobrinha com meus commits
-
-![snake gif](https://raw.githubusercontent.com/uMorgan/uMorgan/output/github-contribution-grid-snake-dark.svg)
-
 
 ## 📚 O que estou estudando agora
 
