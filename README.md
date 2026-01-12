@@ -1,86 +1,242 @@
-<!-- Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a1b9a,100:ff6f00&height=200&section=header&text=Morgan%20👨‍💻&fontSize=40&fontColor=FFFFFF&animation=fadeIn" />
+<!-- Banner Header -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a1b9a,50:1e88e5,100:ff6f00&height=200&section=header&animation=twinkling" />
+</div>
 
-# 👋 Olá, eu sou Morgan!
+<div align="center">
+  
+# 👋 Hi, I'm João Morgan!
 
-Seja bem-vindo ao meu perfil do GitHub!
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Deep+Reinforcement+Learning+🧠;+Backend+Engineering+💻;+Data+Pipelines+📊;+AI+Automation+🤖;+Database+Optimization+🗄️;+Always+Learning!+🚀;" />
 
-> 🚀 *Transformando código em soluções reais!*
+### 🚀 Software Engineer | 🤖 Deep Reinforcement Learning | ⚙️ Backend Engineering
 
-![Visitors](https://komarev.com/ghpvc/?username=uMorgan&color=orange&style=flat-square)
-
-## 🚀 Sobre mim
-
-- 🎓 Atualmente curso **Ciência da Computação (8º período)**.
-- 🎯 Desenvolvedor focado em **Python**, criando bots, automações e sistemas inteligentes.
-- 🤖 Apaixonado por **IA e Reinforcement Learning**, treinando agentes com **Stable Baselines3**.
-- 🎮 Exploro ambientes do **Gymnasium** e **desenvolvo projetos com Front-End** também.
-- 💻 Conhecimento em **JavaScript, Java, C, HTML, CSS, React e TypeScript**.
-- 📚 Sempre aprendendo mais sobre algoritmos e aplicações práticas.
-
-## 🛠️ Tecnologias que uso
-
-### Linguagens
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-
-### Front-End
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![PostCSS](https://img.shields.io/badge/PostCSS-DD3A0A?style=for-the-badge&logo=postcss&logoColor=white)
-![React Intersection Observer](https://img.shields.io/badge/React--Intersection--Observer-000000?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-### Bibliotecas e Frameworks
-
-![Discord.py](https://img.shields.io/badge/Discord.py-5865F2?style=for-the-badge&logo=discord&logoColor=white)
-![Stable Baselines3](https://img.shields.io/badge/Stable--Baselines3-FF6F00?style=for-the-badge&logo=python&logoColor=white)
-![Gymnasium](https://img.shields.io/badge/Gymnasium-6A1B9A?style=for-the-badge&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-5A9BD5?style=for-the-badge&logo=python&logoColor=white)
-![asyncio](https://img.shields.io/badge/asyncio-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-### Ferramentas
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
-
-## 🏆 Projetos em Destaque
-
-- 🔥 **[Bot de Whitelist para Discord](https://github.com/uMorgan/Bot-WL)** — sistema com botões e modals para whitelists
-- 🤖 **[Projetos com Reinforcement Learning](https://github.com/uMorgan/ML-CD)** — usando algoritmos DQN, PPO e A2C no Gymnasium
-- 🏗️ **[Site de orçamentos com React](https://github.com/uMorgan/JM-locacoes)** — site podendo ser visto [aqui](https://umorgan.github.io/JM-locacoes/)
-
-
-## 📚 O que estou estudando agora
-
-- 🎵 **Desenvolvimento de um Akinator de Músicas** — sistema inteligente capaz de adivinhar músicas com base em perguntas sobre características sonoras, gênero, época, instrumentos e sentimentos.
-- 🧠 **Modelagem de conhecimento e inferência lógica** para mapeamento de atributos musicais e tomada de decisão.
-- 🎲 **Probabilidades e heurísticas** para melhorar a precisão de acertos e lidar com incertezas nas respostas.
-- 🧩 **Estruturação de árvores de decisão e bancos de dados relacionais** com base em características musicais.
-- 🛠️ **Interface interativa** para perguntas dinâmicas e coleta de dados do usuário em tempo real.
-
-## 📈 Estatísticas
-
-![uMorgan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=uMorgan&show_icons=true&theme=radical)
-
-## 📫 Como me encontrar
-
-- ✉️ morgantaria965@gmail.com  
-- 💬 Me chame no Discord: .umorganz  
-- 🌐 [Meu LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-morgan-de-almeida-lins-do-vale-ab0094217/)
+![Profile Views](https://komarev.com/ghpvc/?username=uMorgan&color=0e75b6&style=for-the-badge&label=Profile+Views)
+[![GitHub followers](https://img.shields.io/github/followers/uMorgan?style=for-the-badge&color=0e75b6&logo=github)](https://github.com/uMorgan)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-morgan-de-almeida-lins-do-vale-ab0094217/)
 
 ---
 
-✨ Obrigado por visitar meu perfil! Fique à vontade para explorar meus repositórios e colaborar em algum projeto!
+</div>
+
+## 💼 About
+
+<div align="center">
+  
+**Expert in combining Backend robustness (PHP/Python) with Deep Reinforcement Learning intelligence** to optimize processes and complex automations.
+
+Focused on **transforming raw data into intelligent decisions** through scalable pipelines, solving real-world business challenges with AI-driven solutions.
+
+*Bridging AI research and production-grade systems.*
+
+</div>
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### 🧠 Machine Learning & AI
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
+### 🔧 Backend
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
+
+### 🗄️ Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### 🎨 Frontend *(Supporting Skills)*
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### 🔨 Tools & DevOps
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+</div>
+
+---
+
+## 🎯 Expertise
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🧠 Deep Reinforcement Learning
+
+<div align="center">
+
+**Algorithms**
+- PPO • DQN • A2C • SAC • TD3
+
+**Frameworks**
+- Gymnasium
+- Stable-Baselines3
+- Ray RLlib
+
+**Applications**
+- Automation
+- System Optimization
+- Intelligent Decision Making
+
+</div>
+
+</td>
+<td width="50%" valign="top">
+
+### ⚙️ Backend Engineering
+
+<div align="center">
+
+**APIs & Integrations**
+- REST APIs
+- Bitrix24 Integration
+- Webhooks
+
+**Databases**
+- PostgreSQL
+- Data Modeling & Optimization
+- Analytical Queries
+
+**Automation & Monitoring**
+- Data Pipelines
+- ETL Processes
+- Async Processing
+- Zabbix Monitoring
+
+</div>
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+### 🤖 Reinforcement Learning Hub
+
+**Challenge:** Compare RL algorithms performance in classic Gymnasium environments to identify optimal strategies for autonomous decision-making.
+
+**Solution:** Developed comprehensive testing framework using PyTorch and Stable-Baselines3, implementing PPO, DQN, A2C, and SAC algorithms with systematic hyperparameter tuning.
+
+**Impact:** Achieved actionable insights on algorithm convergence and performance trade-offs for real-world automation scenarios.
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/uMorgan/ML-CD)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/uMorgan/ML-CD)
+[![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](https://github.com/uMorgan/ML-CD)
+
+---
+
+### 🔗 Bitrix24 + PostgreSQL Integration
+
+**Challenge:** Enable real-time enterprise data synchronization between Bitrix24 CRM and PostgreSQL, handling high-volume concurrent transactions and complex business logic.
+
+**Solution:** Built robust middleware in PHP with optimized PostgreSQL queries, implementing connection pooling, transaction management, and error recovery mechanisms.
+
+**Impact:** Enabled seamless bidirectional data flow with improved query performance and reliability, supporting critical business operations.
+
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://github.com/uMorgan)
+[![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://github.com/uMorgan)
+[![REST API](https://img.shields.io/badge/REST%20API-FF5733?style=for-the-badge&logo=rest&logoColor=white)](https://github.com/uMorgan)
+
+---
+
+### 🤖 Discord Whitelist Bot
+
+**Challenge:** Create an interactive Discord bot with modern UI components (buttons, modals) and persistent data storage for community management.
+
+**Solution:** Developed Python-based bot using Discord.py with database integration, implementing state management and user-friendly interactions.
+
+**Impact:** Streamlined community moderation workflow with automated whitelist management and improved user experience.
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/uMorgan/Bot-WL)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/uMorgan/Bot-WL)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://github.com/uMorgan/Bot-WL)
+
+</div>
+
+---
+
+## 📊 Additional Skills
+
+<div align="center">
+
+### 📧 Email Marketing
+- Professional email templates (MJML)
+- Responsive design
+- Dark mode support
+- Outlook compatibility
+
+### 📈 Data Visualization
+- Dashboard development
+- Graph documentation
+- Database flow analysis
+- Real-time data display
+
+### 🎨 UI/UX
+- Professional layouts
+- Responsive design
+- Team-based styling
+- Color palette management
+
+</div>
+
+---
+
+## 💡 Currently Learning & Interests
+
+<div align="center">
+
+🌱 **Currently Learning:** Advanced RL algorithms, System Design, Cloud Architecture
+
+💬 **Ask me about:** Deep Reinforcement Learning, Backend Architecture, Database Optimization, AI Automation
+
+📚 **Interests:** AI Research, Open Source, Technology Innovation, Problem Solving
+
+</div>
+
+---
+
+## 📫 Let's Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-morgan-de-almeida-lins-do-vale-ab0094217/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/uMorgan)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@example.com)
+
+**Open to collaborate on innovative AI and Backend projects!**
+
+</div>
+
+---
+
+<div align="center">
+
+### 💼 Open to opportunities in Software Engineering, Backend or AI
+
+⭐️ Built with dedication and passion for technology ⭐️
+
+</div>
+
+<!-- Banner Footer -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a1b9a,50:1e88e5,100:ff6f00&height=150&section=footer&animation=twinkling" />
+</div>
