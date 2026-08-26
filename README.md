@@ -1,5 +1,7 @@
 <div align="center">
-  <img src="morgan.svg" width="100%" alt="João Morgan — Profile Banner" />
+  <a href="https://uMorgan.github.io/portfolio-umorgan/" target="_blank" rel="noopener noreferrer">
+    <img src="morgan.svg" width="100%" alt="João Morgan — Profile Banner" />
+  </a>
 </div>
 
 <br />
